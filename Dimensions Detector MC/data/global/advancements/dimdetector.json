@@ -4,7 +4,7 @@
         "description": "Minecraft Dimensions Detector by Hyperbuilder",
         "icon": {
             "item": "minecraft:player_head",
-            "nbt": "{SkullOwner: 'Hyperbuilder'}"
+            "nbt": "{SkullOwner: '_Hyperbuilder_'}"
         },
         "show_toast": false,
         "announce_to_chat": false
