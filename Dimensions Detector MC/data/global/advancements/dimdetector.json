@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Dimensions Detector MC",
+        "description": "Minecraft Dimensions Detector by Hyperbuilder",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'Hyperbuilder'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
